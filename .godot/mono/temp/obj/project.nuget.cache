@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pm7lr3VUJl42J9Zb/i0hvnJaMxSjwbO+G/cHI3/Wzgs7rEOXvFEgIRK0Tq/aesz494AzCaYvNsUwzuWgJTgHg==",
+  "success": true,
+  "projectFilePath": "/home/winike/Programacao/Godot-Projetctos/pixel_adventure/Pixel Adventure.csproj",
+  "expectedPackageFiles": [
+    "/home/winike/.nuget/packages/godot.sourcegenerators/4.0.0-rc.4/godot.sourcegenerators.4.0.0-rc.4.nupkg.sha512",
+    "/home/winike/.nuget/packages/godotsharp/4.0.0-rc.4/godotsharp.4.0.0-rc.4.nupkg.sha512",
+    "/home/winike/.nuget/packages/godotsharpeditor/4.0.0-rc.4/godotsharpeditor.4.0.0-rc.4.nupkg.sha512",
+    "/home/winike/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

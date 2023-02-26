@@ -1,0 +1,17 @@
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.csproj.AssemblyReference.cache
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.GeneratedMSBuildEditorConfig.editorconfig
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.AssemblyInfoInputs.cache
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.AssemblyInfo.cs
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.csproj.CoreCompileInputs.cache
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/Pixel Adventure.deps.json
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/Pixel Adventure.runtimeconfig.json
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/Pixel Adventure.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/ref/Pixel Adventure.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/Pixel Adventure.pdb
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.csproj.CopyComplete
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/ref/Pixel Adventure.dll
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.pdb
+/home/winike/Programacao/Godot-Projetctos/pixel_adventure/.godot/mono/temp/obj/Debug/Pixel Adventure.genruntimeconfig.cache
