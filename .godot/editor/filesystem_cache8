@@ -1,6 +1,7 @@
 2a60927148abd1d33b818b535e306557
-::res://::1677274796
+::res://::1677432688
 icon.svg::CompressedTexture2D::72241471567917968::1677268932::1677268961::1::::<><>::
+README.md::TextFile::-1::1677409589::0::1::::<><>::
 ::res://assets/::1677269218
 ::res://assets/Background/::1677269197
 Blue.png::CompressedTexture2D::4345230600475943133::1677269196::1677269197::1::::<><>::
@@ -212,8 +213,9 @@ Idle.png::CompressedTexture2D::8098858497898311416::1677269196::1677269197::1:::
 Idle.png::CompressedTexture2D::4397495803581314949::1677269196::1677269197::1::::<><>::
 Jump (28x28).png::CompressedTexture2D::6211440355310019843::1677269196::1677269197::1::::<><>::
 ::res://scenes/::1677269318
-::res://scenes/player/::1677274565
-mask_dude.tscn::PackedScene::7274785561462390113::1677274565::0::1::::<><>::res://scripts/player/mask_dude.cs<>uid://capqy2lcxllff
+::res://scenes/player/::1677276541
+mask_dude.tscn::PackedScene::7274785561462390113::1677276541::0::1::::<><>::res://scripts/player/mask_dude.cs<>uid://capqy2lcxllff<>res://scripts/player/mask_dude_texture.cs
 ::res://scripts/::1677270351
-::res://scripts/player/::1677272593
-mask_dude.cs::CSharpScript::-1::1677274555::0::1::::<><>::
+::res://scripts/player/::1677275281
+mask_dude.cs::CSharpScript::-1::1677276122::0::1::::<><>::
+mask_dude_texture.cs::CSharpScript::-1::1677275785::0::1::::<><>::
